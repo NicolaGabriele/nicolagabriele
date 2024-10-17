@@ -125,7 +125,7 @@ languages:
 awards:
   - title: Cyberchallenge IT
     url: https://cyberchallenge.it/
-    date: '2022-03'
+    date: '2022-03-01'
     summary: 'I studied foundations of cybersecurity.'
 ---
 
