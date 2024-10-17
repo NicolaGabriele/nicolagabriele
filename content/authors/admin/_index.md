@@ -51,11 +51,11 @@ education:
   - area: PhD in Information and Communication Technologies
     institution: University of Calabria
     date_start: 2024-11-02
-    date_end: loading...
+    date_end: 
     summary:
     button:
       text: 'Read Thesis'
-      url: C:\Users\Nicola\PERSONALE\sito_web\nicolagabriele\static\uploads\resume.pdf
+      url:
 
   - area: Master Degree in Computer Engineering
     institution: University of Calabria (IT)
