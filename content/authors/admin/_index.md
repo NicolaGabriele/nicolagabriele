@@ -55,7 +55,7 @@ education:
     summary:
     button:
       text: 'Read Thesis'
-      url:
+      url: https://github.com/NicolaGabriele/nicolagabriele/blob/main/static/uploads/resume.pdf
 
   - area: Master Degree in Computer Engineering
     institution: University of Calabria (IT)
