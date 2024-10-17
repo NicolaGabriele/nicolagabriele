@@ -61,14 +61,12 @@ education:
     institution: University of Calabria (IT)
     date_start: 2022-09-15
     date_end: 2024-09-17
-    summary: |
-      Artificial Intelligence & Machine Learning
+    summary: 'Artificial Intelligence & Machine Learning'
   - area: Bachelor Degree in Computer Engineering
     institution: University of Calabria (IT)
     date_start: 2019-09-01
     date_end: 2022-09-15
-    summary: |
-      Software Engineering, Programming
+    summary: 'Software Engineering, Programming'
 #work:
 #  - position: Director of Cloud Infrastructure
 #    company_name: GenCoin
@@ -128,8 +126,7 @@ awards:
   - title: Cyberchallenge IT
     url: https://cyberchallenge.it/
     date: '2022-03'
-    summary: |
-      I studied foundations of cybersecurity.
+    summary: 'I studied foundations of cybersecurity.'
 ---
 
 ## About Me
