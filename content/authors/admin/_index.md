@@ -134,4 +134,4 @@ awards:
 
 ## About Me
 
-Nicola Gabriele is a PhD student of Information and communication technologies at the University of Calabria. He holds a master's degree in Computer Engineering with focus on Artificial Intelligence and Machine Learning. My thesis explore using Low-rank Adaptation to build an efficient procedure for LLMs distillation.
+I am a PhD student of Information and Communication Technologies at the University of Calabria. I achieved a master's degree in Computer Engineering with focus on Artificial Intelligence and Machine Learning. My thesis explore using Low-rank Adaptation to build an efficient procedure for LLMs distillation.
