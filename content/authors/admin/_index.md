@@ -62,14 +62,14 @@ education:
     date_start: 2022-09-15
     date_end: 2024-09-17
     summary: 'Artificial Intelligence & Machine Learning'
+    button:
+      text: 'Read Thesis'
+      url: https://github.com/NicolaGabriele/nicolagabriele/blob/main/static/uploads/Nicola_Gabriele_Thesis.pdf
   - area: Bachelor Degree in Computer Engineering
     institution: University of Calabria (IT)
     date_start: 2019-09-01
     date_end: 2022-09-15
     summary: 'Software Engineering, Programming'
-    button:
-      text: 'Read Thesis'
-      url: uploads/tesi.pdf
 #work:
 #  - position: Director of Cloud Infrastructure
 #    company_name: GenCoin
