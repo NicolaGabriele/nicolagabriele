@@ -64,7 +64,7 @@ education:
     summary: 'Artificial Intelligence & Machine Learning'
     button:
       text: 'Read Thesis'
-      url: /static/uploads/Nicola_Gabriele_Thesis.pdf
+      url: /uploads/Nicola_Gabriele_Thesis.pdf
   - area: Bachelor Degree in Computer Engineering
     institution: University of Calabria (IT)
     date_start: 2019-09-01
