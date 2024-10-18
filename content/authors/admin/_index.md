@@ -53,9 +53,9 @@ education:
     date_start: 2024-11-02
     date_end: 
     summary:
-    button:
-      text: 'Read Thesis'
-      url: https://github.com/NicolaGabriele/nicolagabriele/blob/main/static/uploads/resume.pdf
+    #button:
+    #  text: 'Read Thesis'
+    #  url: https://github.com/NicolaGabriele/nicolagabriele/blob/main/static/uploads/resume.pdf
 
   - area: Master Degree in Computer Engineering
     institution: University of Calabria (IT)
@@ -67,6 +67,9 @@ education:
     date_start: 2019-09-01
     date_end: 2022-09-15
     summary: 'Software Engineering, Programming'
+    button:
+      text: 'Read Thesis'
+      url: uploads/tesi.pdf
 #work:
 #  - position: Director of Cloud Infrastructure
 #    company_name: GenCoin
