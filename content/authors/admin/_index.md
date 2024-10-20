@@ -134,4 +134,6 @@ awards:
 
 ## About Me
 
-I am a PhD student of Information and Communication Technologies at the University of Calabria. I achieved a master's degree in Computer Engineering with focus on Artificial Intelligence and Machine Learning. My thesis explore using Low-rank Adaptation to build an efficient procedure for LLMs distillation.
+I am a PhD student in Information and Communication Technologies at the University of Calabria. I achieved a Master’s degree 
+in Computer Engineering, with a focus on Artificial Intelligence and Machine Learning. My thesis explores the combined use of 
+Low-rank Adaptation and meta-learning to enhance both the efficiency and accuracy of knowledge distillation from LLMs.
