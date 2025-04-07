@@ -53,6 +53,12 @@ jobs:
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
+    - name: Preload upload-artifact@v3 (fix missing download info)
+      uses: actions/upload-artifact@v3
+      with:
+        name: preload-dummy
+        path: ./public/this_file_does_not_exist.txt
+      continue-on-error: true
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v2
       with:
