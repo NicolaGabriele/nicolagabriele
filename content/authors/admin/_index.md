@@ -133,7 +133,7 @@ awards:
   - title: Excellences program
     url: https://dimes.unical.it/didattica/offerta-formativa/eccellenza/
     date: '2024-09-17'
-    summary: 'In my attending to this program I had got the opportunity to follow some phd courses and to get                       advanced knowledge about Artificial Intelligence and machine learning'
+    summary: 'While attending to this program I had the opportunity to take some PhD courses and to gain                       advanced knowledge in the field of Artificial Intelligence and Machine Learning'
   
 ---
 
