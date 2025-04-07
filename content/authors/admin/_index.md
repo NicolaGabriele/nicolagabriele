@@ -130,10 +130,13 @@ awards:
     url: https://cyberchallenge.it/
     date: '2022-03-01'
     summary: 'I studied foundations of cybersecurity.'
+  - title: Excellence program
+    url: https://dimes.unical.it/didattica/offerta-formativa/eccellenza/
+    date: '17-09-2024'
+    summary: 'In my attending to this program I had got the opportunity to follow some phd courses and to get                       advanced knowledge about Artificial Intelligence and machine learning'
 ---
 
 ## About Me
-
 I am a PhD student in Information and Communication Technologies at the University of Calabria. I achieved a Master’s degree 
 in Computer Engineering, with a focus on Artificial Intelligence and Machine Learning. My thesis explores the combined use of 
 Low-rank Adaptation and meta-learning to enhance both the efficiency and accuracy of knowledge distillation from LLMs.
