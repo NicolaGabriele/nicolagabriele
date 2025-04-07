@@ -132,7 +132,7 @@ awards:
     summary: 'I studied foundations of cybersecurity.'
   - title: Excellences program
     url: https://dimes.unical.it/didattica/offerta-formativa/eccellenza/
-    date: '17-09-2024'
+    date: '2024-09-17'
     summary: 'In my attending to this program I had got the opportunity to follow some phd courses and to get                       advanced knowledge about Artificial Intelligence and machine learning'
   
 ---
