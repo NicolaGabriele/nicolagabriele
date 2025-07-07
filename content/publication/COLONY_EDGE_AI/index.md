@@ -30,8 +30,8 @@ while ensuring that sensitive data remain local. These results highlight
 the applicability and advantages of task-based programming models for
 privacy-preserving machine learning across the compute continuum."
 featured: false
-publication: "*15th International Conference on Semantics, Knowledge and Grids (SKG19)*, September, 2019. IEEE, 2019, pp. 182-189"
-# url_pdf: "files/papers/confs/Polarization-SocialMedia-SKG19-online.pdf"
+publication: "HeteroPar 2025, 23rd International Workshop"
+# url_pdf:
 doi: "10.1109/SKG49510.2019.00038"
 
 
@@ -43,6 +43,6 @@ image:
   preview_only: false
 
 
-tags: ["social media analysis", opinion mining", "user polarization", "neural networks", "sentiment analysis","political events"]
+tags: ["Edge-Cloud Continuum", "Federated Learning", "Privacy-Preserving Machine Learning", "Task-Based Programmings"]
 
 ---
