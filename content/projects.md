@@ -20,15 +20,4 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
-  - block: collection
-    content:
-      title: Chilling vector machines
-      text: TODO
-      filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
 ---
