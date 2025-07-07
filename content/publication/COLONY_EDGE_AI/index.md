@@ -31,7 +31,7 @@ privacy-preserving machine learning across the compute continuum."
 featured: false
 publication: "HeteroPar 2025, 23rd International Workshop"
 # url_pdf:
-doi:
+# doi:
 
 
 # Featured image
