@@ -3,7 +3,6 @@ title: "Federated Learning in the Edge-Cloud Continuum: A Task-Based Approach wi
 date: 2025-07-07
 publishDate: 2025-07-07
 authors: ["Loris Belcastro", "Nicola Gabriele", "Fabrizio Marozzo", "Paolo Trunfio", "Domenico Talia", "Alessio Orsino", "Rosa M. Badia", "Francesc Lordan"]
-publication_types: ["1"]
 abstract: "The edge-cloud continuum enables distributed machine learn-
 ing by leveraging the complementary strengths of edge devices and cen-
 tralized cloud resources. Federated Learning (FL) has emerged as a key
@@ -32,7 +31,7 @@ privacy-preserving machine learning across the compute continuum."
 featured: false
 publication: "HeteroPar 2025, 23rd International Workshop"
 # url_pdf:
-doi: "10.1109/SKG49510.2019.00038"
+doi:
 
 
 # Featured image
