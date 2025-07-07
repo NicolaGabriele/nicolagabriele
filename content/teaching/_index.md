@@ -21,5 +21,3 @@ sections:
       view: article-grid
       columns: 2
 ---
-
-# Elements of Computer Science
