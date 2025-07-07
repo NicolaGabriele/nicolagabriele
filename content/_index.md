@@ -34,7 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: TODO
+      text: My research primarily focuses on the development of machine learning and deep learning algorithms designed to operate efficiently across the edge-cloud continuum. This includes exploring strategies for optimizing performance, resource usage, and latency in distributed and heterogeneous computing environments. Additionally, I am involved in the development of methods for the efficient and environmentally sustainable fine-tuning of Large Language Models (LLMs), with the goal of reducing their computational and energy footprint. I also work on techniques to identify and mitigate biases in LLMs, aiming to improve their fairness, reliability, and ethical alignment.
     design:
       columns: '1'
   - block: collection
