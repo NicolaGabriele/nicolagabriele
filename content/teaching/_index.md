@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Elements of Computer Science
+      title: Teachings
       filters:
         folders:
           - teaching
@@ -21,3 +21,5 @@ sections:
       view: article-grid
       columns: 2
 ---
+
+# Elements of Computer Science
