@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Elements of Computer Science
       filters:
         folders:
           - teaching
