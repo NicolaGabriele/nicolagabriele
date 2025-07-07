@@ -138,6 +138,5 @@ awards:
 ---
 
 ## About Me
-I am a PhD student in Information and Communication Technologies at the University of Calabria. I achieved a Master’s degree 
-in Computer Engineering, with a focus on Artificial Intelligence and Machine Learning. My thesis explores the combined use of 
-Low-rank Adaptation and meta-learning to enhance both the efficiency and accuracy of knowledge distillation from LLMs.
+I am currently pursuing a PhD in Information and Communication Technologies at the University of Calabria, where my research is centered on advanced methodologies in artificial intelligence. I hold a Master’s degree in Computer Engineering, with a strong specialization in Artificial Intelligence and Machine Learning.
+My Master's thesis focused on investigating the synergistic integration of Low-Rank Adaptation (LoRA) techniques and meta-learning frameworks to improve the performance of knowledge distillation processes involving large language models (LLMs). The primary objective of my work was to enhance both the computational efficiency and the predictive accuracy of distilled models, enabling more practical and scalable deployment of LLMs in resource-constrained environments. This research reflects my broader interest in optimizing AI systems for real-world applications through innovative and adaptive learning strategies.
