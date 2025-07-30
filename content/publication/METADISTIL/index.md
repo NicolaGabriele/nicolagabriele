@@ -1,6 +1,6 @@
 ---
 title: "A Parameter-Efficient Approach to Distilling Large Language Models via Meta-Learning"
-date: 2025-07-07
+date: 2025-09-23
 publishDate: 2025-07-07
 authors: ["Loris Belcastro", "Nicola Gabriele", "Fabrizio Marozzo", "Paolo Trunfio", "Domenico Talia", "Alessio Orsino", "Rosa M. Badia", "Francesc Lordan"]
 abstract: "The edge-cloud continuum enables distributed machine learn-
