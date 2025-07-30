@@ -1,6 +1,6 @@
 ---
 title: "A Parameter-Efficient Approach to Distilling Large Language Models via Meta-Learning"
-date: 2025-07-07
+date: 2025-09-23
 publishDate: 2025-09-23
 authors: ["Riccardo Cantini", "Nicola Gabriele", "Alessio Orsino"]
 abstract: "Large Language Models (LLMs) have revolutionized artificial intelligence, significantly improving performance in tasks such as machine translation, 
