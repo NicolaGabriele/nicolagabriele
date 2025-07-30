@@ -42,10 +42,14 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - NLP
+  - Natural Language Processing
   - Machine & Deep Learning
   - High Performance Computing
-  - Information Retrieval
+  - Federated Learning
+  - Edge-Cloud Computing
+  - Knowledge Distillation
+  - Meta-Learning
+  - Computer Science
 
 education:
   - area: PhD in Information and Communication Technologies
