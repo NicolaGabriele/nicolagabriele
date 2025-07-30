@@ -7,6 +7,7 @@ view: citation
 
 # Optional header image (relative to `static/media/` folder).
 banner:
-  caption: 'provaprovaprovaprovaprovaprovaprovaprovaprovaprovaprovaprovaprovaprova'
+  caption: ''
   image: 'static/media/featured.png'
+  
 ---
