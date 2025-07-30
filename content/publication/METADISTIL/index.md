@@ -1,35 +1,11 @@
 ---
 title: "A Parameter-Efficient Approach to Distilling Large Language Models via Meta-Learning"
 date: 2025-09-23
-publishDate: 2025-09-23
+publishDate: 2025-07-30
 authors: ["Riccardo Cantini","Nicola Gabriele", "Alessio Orsino"]
-abstract: "The edge-cloud continuum enables distributed machine learn-
-ing by leveraging the complementary strengths of edge devices and cen-
-tralized cloud resources. Federated Learning (FL) has emerged as a key
-
-paradigm in this context, allowing collaborative model training across
-
-multiple parties without sharing raw data, thus preserving privacy, re-
-ducing communication costs, and supporting compliance with data pro-
-tection regulations. However, orchestrating FL workflows across hetero-
-geneous edge-cloud environments introduces significant challenges re-
-lated to task coordination, resource management, and scalability. In this
-
-paper, we propose using the Colony framework to address these chal-
-lenges through a task-based approach to FL. Colony allows develop-
-ers to define an FL workflow as parallel tasks automatically scheduled
-
-across heterogeneous resources. We show how this task-based model sup-
-ports core FL operations—such as local training, model aggregation, and
-
-synchronization—within a unified execution framework. Experiments on
-a medical imaging use case demonstrate that Colony enables scalable
-and efficient orchestration of FL tasks across heterogeneous environments
-while ensuring that sensitive data remain local. These results highlight
-the applicability and advantages of task-based programming models for
-privacy-preserving machine learning across the compute continuum."
+abstract: "Large Language Models (LLMs) have revolutionized artificial intelligence, significantly improving performance in tasks such as machine translation, summarization, and conversational systems. These models, however, typically consist of hundreds of millions or even billions of parameters, making them computationally expensive to train and deploy. This presents a major challenge, especially when considering the growing demand to integrate such models into resource-constrained environments like mobile devices or embedded systems. To address this issue, model compression techniques have become essential, such as Knowledge Distillation, which aims to transfer knowledge from a complex model---referred to as the teacher---to a more compact, computationally efficient one---known as the student---without significantly compromising performance. Moreover, recent studies have shown that meta-learning techniques, particularly \textit{learning-to-teach} frameworks, can enhance the distillation process. However, while knowledge distillation via meta-learning is especially effective under high compression ratios, it involves a computationally intensive training process to optimize the teacher’s parameters for effective knowledge transfer, leading to substantial resource and energy consumption. To address this issue, we propose a resource-efficient distillation framework that integrates meta-learning with Parameter-Efficient Fine-Tuning (PEFT) techniques, leveraging Low-Rank Adaptation (LoRA) for the teacher's meta-update. By minimizing the computational and memory demands of the distillation process, our approach reduces energy consumption without compromising model performance, ultimately enabling more sustainable AI systems."
 featured: false
-publication: "HeteroPar 2025, 23rd International Workshop"
+publication: "CAIMA2025 workshop, part of the ADBIS2025 conference (September 23-26, 2025 - Tampere)"
 # url_pdf:
 # doi:
 
@@ -42,6 +18,6 @@ image:
   preview_only: false
 
 
-tags: ["Edge-Cloud Continuum", "Federated Learning", "Privacy-Preserving Machine Learning", "Task-Based Programmings"]
+tags: ["Knowledge Distillation", "Large Language Models", "Meta-Learning", "PEFT", "LoRA", "NLP", "Sustainable AI"]
 
 ---
