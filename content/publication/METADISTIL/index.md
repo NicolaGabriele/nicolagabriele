@@ -3,7 +3,7 @@ title: "A Parameter-Efficient Approach to Distilling Large Language Models via M
 date: 2025-07-07
 publishDate: 2025-09-23
 authors: ["Riccardo Cantini", "Nicola Gabriele", "Alessio Orsino"]
-abstract:"Large Language Models (LLMs) have revolutionized artificial intelligence, significantly improving performance in tasks such as machine translation, 
+abstract: "Large Language Models (LLMs) have revolutionized artificial intelligence, significantly improving performance in tasks such as machine translation, 
           summarization, and conversational systems. These models, however, typically consist of hundreds of millions or even billions of parameters, making 
           them computationally expensive to train and deploy. This presents a major challenge, especially when considering the growing demand to integrate 
           such models into resource-constrained environments like mobile devices or embedded systems. To address this issue, model compression techniques have become essential, 
