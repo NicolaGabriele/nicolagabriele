@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: Visitor PhD Student
-    istitution: Barcelona Supercomputing Center
+    institution: Barcelona Supercomputing Center
     date_start: 2025-09-15
     date_end: 2025-12-15
     summary:
