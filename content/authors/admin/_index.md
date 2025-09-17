@@ -52,6 +52,11 @@ interests:
   - Computer Science
 
 education:
+  - area: Visitor PhD Student
+    istitution: Barcelona Supercomputing Center
+    date_start: 2025-9-15
+    date_end: 2025-12-15
+    summary:
   - area: PhD in Information and Communication Technologies
     institution: University of Calabria
     date_start: 2024-11-02
