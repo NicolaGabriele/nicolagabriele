@@ -52,6 +52,14 @@ interests:
   - Computer Science
 
 education:
+- area: Visiting PhD Student
+    institution: Barcelona Supercomputing Center
+    date_start: 2025-09-15
+    date_end: 2025-12-15
+    summary:
+    #button:
+    #  text: 'Read Thesis'
+    #  url: https://github.com/NicolaGabriele/nicolagabriele/blob/main/static/uploads/resume.pdf
   - area: PhD in Information and Communication Technologies
     institution: University of Calabria
     date_start: 2024-11-02
