@@ -2,7 +2,7 @@
 title: "Federated Learning in the Edge-Cloud Continuum: A Task-Based Approach with Colony"
 date: 2025-07-07
 publishDate: 2025-07-07
-authors: ["Loris Belcastro", "**Nicola Gabriele**", "Fabrizio Marozzo", "Paolo Trunfio", "Domenico Talia", "Alessio Orsino", "Rosa M. Badia", "Francesc Lordan"]
+authors: ["Loris Belcastro", "*Nicola Gabriele*", "Fabrizio Marozzo", "Paolo Trunfio", "Domenico Talia", "Alessio Orsino", "Rosa M. Badia", "Francesc Lordan"]
 abstract: "The edge-cloud continuum enables distributed machine learn-
 ing by leveraging the complementary strengths of edge devices and cen-
 tralized cloud resources. Federated Learning (FL) has emerged as a key
