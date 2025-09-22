@@ -1,5 +1,5 @@
 ---
 draft: false
-featured_image: assets/media/banner.jpg
+featured_image: /images/banner.jpg
 ---
 # Questo è un post di prova
