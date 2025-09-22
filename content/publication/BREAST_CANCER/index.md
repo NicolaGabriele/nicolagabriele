@@ -19,6 +19,6 @@ image:
   preview_only: false
 
 
-tags: ["Knowledge Distillation", "Large Language Models", "Meta-Learning", "PEFT", "LoRA", "NLP", "Sustainable AI"]
+tags: ["breast cancer", "LLMs", "gene expression", "tumor grade", "explainable AI"]
 
 ---
